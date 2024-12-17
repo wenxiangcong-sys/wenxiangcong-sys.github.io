@@ -11,7 +11,6 @@ permalink: /publication/
 <br/>
 <br/>
 
-
 ## Highlights
 
 {% assign number_printed = 0 %}
