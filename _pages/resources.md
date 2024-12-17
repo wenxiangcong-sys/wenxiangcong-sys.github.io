@@ -14,70 +14,6 @@ permalink: /resources/
 <!--# Resources-->
 
 
-## Biomedical Imaging Center, Rensselaer Polytechnic Institute
-
-The mission of Biomedical Imaging Center (BIC) at Rensselaer Polytechnic Institute (RPI) is to define and advance imaging frontiers, theories and technologies, realize clinical, preclinical and other potentials, as well as train scientists and engineers. BIC is directed by Dr. Ge Wang and occupies office and laboratory space of ~3,000sf in the Center for Biotechnology and Interdisciplinary Studies (CBIS) (Figure 1), which ranks among the world's most advanced research facilities.
-
-
-<p align = "center">
-<img src = "https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource1.png">
-</p>
-<p align = "center">
-Figure 1. Biomedical Imaging Center (BIC) in CBIS on the main campus of Rensselaer Polytechnic Institute (RPI).
-</p>
-
-
-## AI-based X-ray Imaging System (AXIS) Lab:
-
-This laboratory owns a Universal CT Bench-top system of $1M investment donated by GE Global Research Center (New York, USA), a grating-based x-ray Talbot-Lau interferometer developed under an NIH R01 support, and a photon-counting micro-CT scanner of $0.5M donated by MARS Bioimaging (Christchurch, New Zealand) (Figure 2).
-
-<p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource2a.png" /> 
-  <img style="width: 21vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource2b.png" /> 
-  
-  Figure 2. AXIS lab in CBIS Room 1343. (a) A top-level layout and (b) 3D rendering.
-</p>
-
-
-## [Photon-counting Micro-CT Scanner MARS](https://wang-axis.github.io/mars.html):
-
-The MARS-16 x-ray photon-counting preclinical scanner donated by MARS Bioimaging to our lab (Figure 7) decomposes materials in a sample or a living animal during a single scan. It is the first commercially available spectral micro-CT system to produce images with anatomic, functional, and molecular quantification at a fraction of the cost and time of PET and SPECT. This scanner consists of Medpix3 detectors bonded to High-Z sensors at 110µm pitch, 8 energy bins and 2ms frame readout, an x-ray source at 120kVp and 350μA in circular and helical scan modes, a precision horizontal in vivo sample stage with gas lines, monitoring sensors, reconstruction algorithms, and a visualization workstation with an HP 3D VR display. Furthermore, through an NIH HEI grant (PI: Ge Wang) our CBIS / BIC has the latest system model MARS-20 installed in 2020 to serve local and regional users. For detailed information please [click on this link.](https://wang-axis.github.io/mars.html)
-
-## Universal CT Bench-top System:
-
-The industrial universal CT bench-top system (Figure 3) emulates many CT configurations. This emulator can reveal physical effects like scatter that is difficult to simulate numerically. This system is critical for development of x-ray imaging technologies such as photon-counting detectors.
-The system contains a medical x-ray source, a small flat panel detector, and a phantom stage. These are mounted on a set of high-accuracy PC-controlled translation and rotation stages (Figure 4). While the stages are steered, data can be acquired under a pre-defined protocol.
-
-<u>X-ray Source</u>
-  <i>60kW GE tube for 64-slice CT</i>
-  <i>High-V generator, 40-140kVp</i>
-<u>Detector/DAS</u>
-  <i>Partial GE VCT-LightSpeed detector</i>
-  <i>64-slice (Z) by 128 pixels (X), 1x1 mm2 per pixel</i>
-  <i>Alternative 32-slice by 64 pixels, 2x2mm2 per pixel</i>
-<u>Motion Stages</u>
-  <i>Source: X, Y, Z, and φ</i>
-  <i>Detector: X, Y, and φ</i>
-  <i>Phantom: Z and φ</i>
-
-
-
-<p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource3a.jpg" />
-  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource3b.jpg" /> 
-  
-  Figure 3. AXIS lab in CBIS Room 1343. (a) A top-level layout and (b) 3D rendering.
-</p>
-
-
-
-
-<p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource4.jpg" />
-  
-  Figure 4. Specifications of the universal CT emulator with its source, detector and phantom base on supporting stages.
-</p>
-
 
 
 ## X-ray Grating-based Imaging Platform:
@@ -107,28 +43,3 @@ This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed
   
 </p>
 
-## Wang-AXIS GPU Workstations:
-
-State-of-the-art GPU workstations are up to date for deep-learning-based tomographic reconstruction and image analysis. There are in total eight NVIDIA GeForce GTX 1080 Ti GPUs, two NVIDIA TITAN Xp GPUs denoted by NVIDIA to Wang’s Lab, two TITAN RTX GPUs interconnected via NVIDIA NVLink, five RTX A5000 GPUs, and ten NVIDIA H100 systems. These workstations are equipped with large RAMs (64GB/64GB/96GB/192GB/256GB/1TB) for high-resolution volumetric image reconstruction. All these GPU servers are connected to a large data system of 117TB. The standard software packages are installed on all the workstations, including MATLAB, Anaconda, PyTorch, TensorFlow, Caffe, Torch, MXNet, and Keras.
-
-## High-performance Computing Infrastructure:
-  
-The [Center for Computational Innovations](https://cci.rpi.edu) (CCI) is based on a $100M partnership among Rensselaer, IBM, and New York State, and housed in a 22,000 square foot facility at the Rensselaer Technology Park. It includes a 4,500 square foot machine room, offices and space for industry visitors. The CCI operates heterogeneous supercomputing systems consisting of Intel Xeon, AMD EPYC, IBM POWER 9, and NVIDIA Tesla V100 processor-based clusters. The main workhorse of the CCI is the Artificial Intelligence Multiprocessing Optimized System (AIMOS). It combines POWER9 CPUs and NVIDIA GPUs, and performs eight quadrillion calculations per second. It is the most powerful supercomputer housed in a university setting, and the 24th most powerful supercomputer in the world. The CCI system is supported by over a petabyte of disk storage. The CCI has dedicated high-speed connections to the main campus and to the NYSERNet optical infrastructure that provides access to the national and international high-speed networks. The CCI Computational Facilities consist of
-* Supercomputer: 270 nodes total. 252 dual 20-way POWER 9 processors with 512 GB of RAM each with 6 NVIDIIA Tesla 32 GB V100 and 1x 1.6 TB NVMe SSD & 18, dual 20-way POWER 9 processors with 512 GB of RAM each with 4 NVIDIA Tesla 16GB V100 and 1x 1.6 TB NVMe SSD
-* Cluster: 64, dual 8-way Xeon processors with 256 GB of RAM each
-* Parallel Storage: 2.1 Petabytes utilizing GPFS parallel file system with Native RAID, additional 8PB in process of being commissioned
-* 324-port non-blocking 56Gbps/FDR Infiniband interconnect
-* 216-port non-blocking 100Gbps/EDR Infiniband interconnect
-* Two 648-port non-blocking 100Gpbs/EDR Infiniband interconnect
-
-## CBIS Micro-CT Core:
-
-The micro-CT scanner Scanco Viva CT40 resolves dense tissues including bone and contrast-enhanced vasculature. It is equipped with a micro-focus x-ray source of 5µm spot size at 50-70kVp, 8W (160µA) to achieve 10µm resolution. It covers a maximum scan length of 145mm and has a field-of-view up to 38mm. Animal husbandry, veterinary, and other facilities are provided by the Bioresearch Core.
-
-## CBIS Micro-MRI Core:
-  
-Micro-MRI is ideally suited to perform in vivo studies of animals and ex vivo studies of excised tissues and samples. There are two state-of-the-art high-field micro-MRI scanners (7T/16cm and 14T/8.9cm Bruker AVIII). These are equipped with an array of imaging coils including dedicated high-sensitivity surface and volume resonators for brain and abdomen imaging of mice and rats. In combination with high-performance actively shielded gradients, these systems allow high sensitivity, fast speed, and great flexibility. Animal monitoring equipment is used for triggered data acquisition on respiratory and cardio biometric signatures. Inhaled anesthesia delivery systems, MRI-compatible blood-oxygen sensor, and a small animal ventilator are also available. In addition, the MRI core is current licensed to use many commercial software analysis packages.
-
-## CBIS BioResearch Core:
-  
-This Core is a state-of-the–art small animal housing and research facility. It includes nine barriers, three quarantine holding rooms, and six procedure rooms for ABSL-1 and 2 work. The staff are capable of performing major and minor survival surgery, orthopedic testing, in vivo MRI, fluorescence imaging, behavioral testing, cardiovascular physiology, and more. An animal veterinarian is available on-call. The services include protocol development, IACUC submission, animal identification, tissue specimen and blood collection, phenotype assessment, drug administration, surgical preparation and operation, postoperative recovery and care, breeding colony maintenance, embryo, egg and sperm cryopreservation, animal model development, necropsy and euthanasia.
