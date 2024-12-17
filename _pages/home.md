@@ -23,28 +23,28 @@ We have proposed a novel score-matching formula to derive a new score function t
         
         <div class="item active">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-              <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home0.png" alt="Slide 1" />
+              <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home0.PNG" alt="Slide 1" />
             </a>
         </div>
 
         <!-- Second Slide -->
         <div class="item">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-                <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home1.png" alt="Slide 2" />
+                <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home1.PNG" alt="Slide 2" />
             </a>
         </div>
 
         <!-- Third Slide -->
         <div class="item">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-                <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home2.png" alt="Slide 3" />
+                <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home2.PNG" alt="Slide 3" />
             </a>
         </div>
 
         <!-- Fourth Slide -->
         <div class="item">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-                <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home3.png" alt="Slide 4" />
+                <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home3.PNG" alt="Slide 4" />
             </a>
         </div>
   </div>
