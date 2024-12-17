@@ -1,7 +1,7 @@
 ---
-title: "WANG-AXIS Lab - Publications"
+title: "Intellimaging Tech - Publications"
 layout: gridlay
-excerpt: "WANG-AXIS Lab -- Publications."
+excerpt: "Intellimaging Tech -- Publications."
 sitemap: false
 permalink: /publication/
 ---
@@ -13,7 +13,7 @@ permalink: /publication/
 
 
 For a full list see [Google Scholar Profile.](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
-Codes are publicly available at [Wang-AXIS Lab Github](https://github.com/WANG-AXIS)
+Codes are publicly available at [Intellimaging Tech Lab Github](https://github.com/wenxiangcong-sys)
 
 
 
