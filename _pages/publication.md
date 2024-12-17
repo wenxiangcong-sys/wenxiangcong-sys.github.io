@@ -12,7 +12,7 @@ permalink: /publication/
 <br/>
 
 
-For a full list see [Google Scholar Profile.](https://scholar.google.com/citations?user=MWsIcikAAAAJ&hl=en)
+For a full list see [Google Scholar Profile](https://scholar.google.com/citations?user=MWsIcikAAAAJ&hl=en)
 Codes are publicly available at [Intellimaging Tech Lab Github](https://github.com/wenxiangcong-sys)
 
 
