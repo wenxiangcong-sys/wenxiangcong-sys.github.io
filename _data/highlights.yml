@@ -1,10 +1,10 @@
-- title: "Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening"
+- title: "Virtual monoenergetic CT imaging via deep learning"
   image: Level2-Rep.png
-  description: We developed an open-source LLM to generate structured Level-2 radiology reports from free-text descriptions, addressing formatting errors, hallucinations, and privacy concerns. Using our dynamic template-constrained decoding scheme, our method improved LLAMA-3.1 by 10.42% and outperformed GPT-4o by 17.19%.
-  authors: Chuang Niu, Parisa Kaviani, Qing Lyu, Mannudeep K. Kalra, Christopher T. Whitlow, Ge Wang
+  description: The physical process of X-ray CT imaging is described by an energy-dependent non-linear integral equation. However, this equation is noninvertible using an efficient solution and is practically approximated as a linear integral model in the form of the Radon transform. Because the approximation suppressed energy-dependent information, the resultant image reconstruction requires beam-hardening correction to suppress image artifacts. To overcome the limitation, dual-energy CT (DECT) uses two energy spectra and produces virtual monoenergetic (VM) and material-specific images at the cost of increased system complexity and additional radiation dose. In this work, we present a physics-based deep learning approach to map polyenergetic CT images to monoenergetic images at pre-specified energy levels, accurately and robustly approximating VM images from DECT using only single-spectrum images. This method enables multi-material decomposition with a performance comparable with that of DECT.
+  authors: Wenxiang Cong, Yan Xi, Paul Fitzgerald, Bruno De Man, Ge Wang
   link: 
-    url: https://arxiv.org/abs/2409.18319
-    display:  arXiv, 2409.18319, 2024
+    url: https: https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0
+    display: Patterns, Volume 1, Issue 8, 100128
   highlight: 1
   news2:
 
