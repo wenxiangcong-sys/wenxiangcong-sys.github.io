@@ -23,7 +23,7 @@ We have proposed a novel score-matching formula to derive a new score function t
         
         <div class="item active">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-              <img src="https://github.com/wenxiangcong-sys/wenxiangcong-sys.github.io/blob/master/images/home2.PNG" alt="Slide 1" />
+              <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home2.PNG" alt="Slide 1" />
             </a>
         </div>
 
@@ -93,7 +93,5 @@ We are grateful for all collaborators and funding agencies especially [National 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nih.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ge-hc.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nvidia.png" style="width: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-rpi.jpg" style="width: 190px">
 </figure>
