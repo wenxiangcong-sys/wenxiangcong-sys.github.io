@@ -10,8 +10,8 @@ permalink: /publication/
 <br/>
 
 
-For a full list see [Google Scholar Profile.](https://scholar.google.com/citations?user=pjK2mQwAAAAJ&hl=en&oi=ao)
-Codes are publicly available at [Wang-AXIS Lab Github](https://github.com/WANG-AXIS)
+For a full list see [Google Scholar Profile.](https://scholar.google.com/citations?user=MWsIcikAAAAJ&hl=en)
+Codes are publicly available at [Intellimaging Github](https://github.com/wenxiangcong-sys)
 
 
 
@@ -66,29 +66,6 @@ Codes are publicly available at [Wang-AXIS Lab Github](https://github.com/WANG-A
 <p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
   {{ pub.author }}<br>
   {{ pub.venue | replace: "&#58", ":" | capitalize_all }}<br>
-  {%- if pub.url -%}
-  [<a href="{{ pub.url}}">link</a>]
-  {%- endif -%}
-</p>
-</li>
-{% endif %}
-{%- endfor -%}
-
-</ol>
-
-<p> &nbsp; </p>
-
-
-## Representative Perspectives/Reviews
-
-<!--<ol reversed>-->
-<ol>
-{%- for pub in site.data.pub_repres_perspective -%}
-{% if pub.type == "perspective" %}
-<li>
-<p> <b>{{ pub.title | replace: "&#58", ":" }}</b><br>
-  {{ pub.author }}<br>
-  {{ pub.venue | replace: "&#58", ":" }}<br>
   {%- if pub.url -%}
   [<a href="{{ pub.url}}">link</a>]
   {%- endif -%}
