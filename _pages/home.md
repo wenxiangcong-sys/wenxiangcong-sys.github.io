@@ -1,7 +1,7 @@
 ---
-title: "Wang-AXIS Lab - Home"
+title: "Intellimaging Tech - Home"
 layout: homelay
-excerpt: "Wang-AXIS Lab at Rensselaer Polytechnic Institute."
+excerpt: "Artificial Intelligence and Machine Learning for Biomedical Imaging"
 sitemap: false
 permalink: /
 ---
@@ -76,19 +76,9 @@ We have proposed a novel score-matching formula to derive a new score function t
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-Our focus is on medical imaging, with an emphasis on x-ray CT, multi-modality/multi-scale imaging, and deep reconstruction and analysis. We have been continuously funded by federal agencies and leading companies. Our world-class collaboration network includes industry leaders and top academic institutions such as 
-GE Healthcare, 
-MARS Bioimaging, 
-FDA, SBU, JHU,
-Harvard, Stanford, Yale,
-MSK Cancer Center, 
-Wake Forest, UMass Lowell,
-Albany Medical Center,
-HSS (Hospital for Special Surgery),
-and others. Together, we are developing theories, methods, software, systems, and workflows to shape the future of healthcare.
+Our focus is on medical imaging, with an emphasis on X-ray CT, photoacoustic imaging, and image reconstruction and analysis. We are developing theories, methods, software, and hardware systems.
 
-We are grateful for all collaborators and funding agencies especially [National Institutes of Health](https://www.nih.gov/), [GE Healthcare](https://www.gehealthcare.com/), [Nvidia](https://www.nvidia.com/en-us/), and [Rensselaer Polytechnic Institute](https://www.rpi.edu).
-
+We are grateful for all collaborators and funding agencies especially [National Institutes of Health](https://www.nih.gov/), and [Nvidia](https://www.nvidia.com/en-us/).
 
 
 <figure class="fourth">
