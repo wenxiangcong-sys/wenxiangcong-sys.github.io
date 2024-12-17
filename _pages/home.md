@@ -23,7 +23,7 @@ We have proposed a novel score-matching formula to derive a new score function t
         
         <div class="item active">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-              <img src="https://raw.githubusercontent.com/wenxiangcong-sys.github.io/master/images/home2.PNG" alt="Slide 1" />
+              <img src="{{ site.url }}{{ site.baseurl }}/images/home2.PNG" alt="Slide 1" />
             </a>
         </div>
 
