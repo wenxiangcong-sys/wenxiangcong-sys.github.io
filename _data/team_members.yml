@@ -1,4 +1,4 @@
-- name: Wenxiang Cong
+- name: Wenxiang Cong, PhD
   photo: congw2.jpg
   info: Senior Engineer
   email: wxcong@gmail.com
@@ -10,38 +10,38 @@
   education4: 
   education5: 
 
-- name: Haibo Song
-  photo: congw2.jpg
-  info: Medical Doctor
+- name: Haibo Song, MD
+  photo: 
+  info: Radiologist
   email: haibocong@gmail.com
   url: 
   path:
   number_educ: 2
-  education1: Harbin Medical University, China
+  education1: 
   education2: Areas - Medical Imaging Analysis and Diagnosis
 
 
-- name: Alexander Xin Cong
-  photo: congw2.jpg
+- name: Alexander Xin Cong, PhD
+  photo: 
   info: Software Engineer
-  email: congw@rpi.edu
+  email: alexcongw@gmail.com
   url: https://www.linkedin.com/in/wenxiang-cong-2b0a5944/
   path: 
   number_educ: 2
-  education1: PhD
+  education1: 
   education2: Areas - Medical Imaging, Machine Learning/Deep Learning
-  education3: xx
+  education3: 
 
 
 
-- name: Mengzhou Li
-  photo: congw2.jpg
-  info: Postdoc Research Associate, 08/23- Now
+- name: Mengzhou Li, PhD
+  photo: 
+  info: Research Scientist
   email: lim23@rpi.edu
   url: https://www.linkedin.com/in/mengzhou-li-14122719a/
   path:
   number_educ: 2
-  education1: BS, Harbin Inst. of Tech., China, 2015
+  education1: 
   education2: Areas - Photon-counting CT, Deep Learning
   education3:
   education4:
