@@ -1,7 +1,7 @@
 ---
-title: "Wang-AXIS Lab - Members"
+title: "Intellimaging Tech - Members"
 layout: gridlay
-excerpt: "Wang-AXIS Lab: Members"
+excerpt: "Intellimaging Tech: Members"
 sitemap: false
 permalink: /members/
 ---
