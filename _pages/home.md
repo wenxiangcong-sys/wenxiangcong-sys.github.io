@@ -1,7 +1,7 @@
 ---
 title: "Intellimaging Tech - Home"
 layout: homelay
-excerpt: "Artificial Intelligence and Machine Learning for Biomedical Imaging"
+excerpt: "Developing artificial intelligence and machine learning methods and technologies for medical imaging"
 sitemap: false
 permalink: /
 ---
@@ -76,9 +76,7 @@ We have proposed a novel score-matching formula to derive a new score function t
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-Our focus is on medical imaging, with an emphasis on X-ray CT, photoacoustic imaging, and image reconstruction and analysis. We are developing theories, methods, software, and hardware systems.
-
-We are grateful for all collaborators and funding agencies especially [National Institutes of Health](https://www.nih.gov/), and [Nvidia](https://www.nvidia.com/en-us/).
+Our focus is on medical imaging, with an emphasis on X-ray tomographic imaging, photoacoustic imaging, and image reconstruction and analysis. We are developing theories, methods, software, and hardware systems for clinical applications. We are grateful for all collaborators and funding agencies especially [National Institutes of Health](https://www.nih.gov/), and [Nvidia](https://www.nvidia.com/en-us/).
 
 
 <figure class="fourth">
