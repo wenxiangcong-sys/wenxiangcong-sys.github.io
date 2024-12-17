@@ -4,9 +4,9 @@
   site: IEEE BMES
 
 - date: 10/04/2024
-  headline:  Received the Founders Award of Excellence
+  headline:  Received Award of Excellence
   url: https://webforms.rpi.edu/founders-award-excellence
-  site: RPI
+  site: IEEE
 
 - date: 08/19-22/2024
   headline:  SPIE Conference 
@@ -51,12 +51,12 @@
 - date: 06/15/2023
   headline:  Artificial Biological Intelligence 
   url: https://news.rpi.edu/content/2023/06/02/artificial-biological-intelligence-could-play-key-role-future
-  site: RPI News
+  site: News
 
 - date: 09/27/2023
   headline:  Future of AI
   url: https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large
-  site: RPI News
+  site: News
 
 - date: 05/15/2023
   headline:  Intelligent Healthcare
@@ -71,7 +71,7 @@
 - date: 11/01/2022
   headline: Perspective on Healthcare 
   url: https://news.rpi.edu/content/2022/11/16/rensselaer-researchers-publish-research-nature-machine-intelligence-promoting
-  site: RPI News
+  site: News
 
 - date: 10/01/2022
   headline: Award of Excellence
@@ -177,6 +177,6 @@
   editor: Mullaney M
   headline: AAAS News
   url: https://news.rpi.edu/content/2014/11/25/professors-berman-garde-and-ge-selected-2014-aaas-fellows
-  site: RPI News
+  site: News
 
 
