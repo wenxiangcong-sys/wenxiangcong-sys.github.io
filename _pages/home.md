@@ -6,11 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-AI-based X-ray Imaging System (AXIS) lab is led by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and  [Dr. Chuang Niu](https://scholar.google.com/citations?user=aoud5NgAAAAJ&hl=en) in the 
-[Biomedical Imaging Center](https://biotech.rpi.edu/biomedical-imaging-center) directed by  [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and  [Dr. Pingkun Yan](https://dial.rpi.edu/people/pingkun-yan), affiliated with the
-[Center for Biotechnology and Interdisciplinary Studies](http://biotech.rpi.edu/), the
-[Center for Computational Innovations](https://cci.rpi.edu/), and the
-[Department of Biomedical Engineering](http://bme.rpi.edu/), [Rensselaer Polytechnic Institute](http://www.rpi.edu/). 
+We have proposed a novel score-matching formula to derive a new score function through deep learning on an image dataset. By integrating our new score function into the image reconstruction process, we have developed a new iterative reconstruction method within the MAP estimation framework to enhance image quality. The convergence of our iterative reconstruction algorithm has been demonstrated through mathematical analysis. Also, we have evaluated the performance of our image reconstruction method on both public medical CT datasets and clinical raw datasets. Comparative studies on our reconstruction method against competing techniques, including filtered backprojection (FBP), model-based iterative reconstruction (MBIR) with total variation minimization (MBIR-TV), and the multi-scale score function-based reconstruction (MSFRecon) method, has demonstrated that our reconstruction method consistently produced higher quality images in terms of PSNR and SSIM metrics across diverse datasets. Notably, on Siemens and GE clinical CT raw datasets, our proposed approach achieved superior denoising and deblurring effects over the competing methods, illustrating remarkable generalizability and stability. Moreover, our proposed score matching formula holds potential in image denoising, deblurring, and generation. Ongoing efforts in algorithmic optimization and systematic evaluation are needed to translate this novel approach into clinical practice. [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover" >
     <!-- Menu -->
