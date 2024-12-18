@@ -8,9 +8,9 @@ permalink: /projects/
 
 
 
-## Cardiac CT Deblooming 
+## Cardiac tomographic Imaging 
 
-The goal is to use deep learning to eliminate blooming artifacts in cardiac CT images without costly redesign of the CT hardware. This will be based on a dual-domain workflow from sinogram processing through image reconstruction to image analysis.
+The goal is to leverage deep learning to eliminate artifacts from cardiac CT images without requiring costly hardware redesigns. This approach employs machine learning techniques to process projection sinogram data and perform both image reconstruction and analysis.
 
 
 <p align = "left">
