@@ -28,13 +28,13 @@
   highlight: 1
   news2:
 
-- title: "Specialty-Oriented Generalist Medical AI for Chest CT Screening"
+- title: "CT image reconstruction on a low dimensional manifold"
   image: SOGMAI.png
-  description: Modern medical records include a vast amount of multimodal free text clinical data and imaging data. Fully mining such big data requires multitasking; otherwise, occult but important aspects may be overlooked. Here we propose the first-of-its-kind medical multimodal-multitask foundation model (M3FM) with application in lung cancer screening and related tasks.
-  authors: Chuang Niu, Qing Lyu, Christopher D. Carothers, Parisa Kaviani, Josh Tan, Pingkun Yan, Mannudeep K. Kalra, Christopher Whitlow, Ge Wang
+  description: We apply the low-dimensional manifold model (LDMM) to regularize X-ray computed tomography (CT) image reconstruction. This approach effectively recovers detailed structural information, significantly enhancing both spatial and contrast resolution. Clinical experiments show that the LDMM-based method achieves more accurate image reconstruction with high fidelity and improved contrast resolution.
+  authors: Wenxiang Cong, Ge Wang, Qingsong Yang, Jia Li, Jiang Hsieh, Rongjie Lai
   link: 
-    url:  https://arxiv.org/abs/2304.02649
-    display: arXiv, 2024.100658, 2024 (pending review)
+    url:  https://pmc.ncbi.nlm.nih.gov/articles/PMC9674026
+    display: Inverse Problems and Imaging 13(3), 449-460 
   highlight: 1
   news2:
 
