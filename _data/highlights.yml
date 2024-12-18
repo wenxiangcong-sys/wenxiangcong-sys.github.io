@@ -8,13 +8,18 @@
   highlight: 1
   news2:
 
-- title: "Review Article: Physics-Inspired Generative Models in Medical Imaging"
+- title: "Tomographic Image Reconstruction Using an Advanced Score Function (ADSF)"
   image: PFCM2.png
-  description: Physics-inspired generative models, in particular diffusion and Poisson flow models, enhance Bayesian methods and promise great utilities in medical imaging. This review examines the transformative role of such generative methods. This review will hopefully give peers and learners a timely snapshot of this new family of physics-driven generative models.
-  authors: Dennis Hein, Afshin Bozorgpour, Dorit Merhof, Ge Wang
+  description: we develop a novel iterative image reconstruction method based on maximum a posteriori (MAP) estimation. In the MAP framework, the score function, i.e., the gradient of the logarithmic probability
+density distribution, plays a crucial role as an image prior in the iterative image reconstruction process. By leveraging the Gaussian mixture model, we derive a novel score matching formula to establish an
+advanced score function (ADSF) through deep learning. Integrating the new ADSF into the image reconstruction process, a new ADSF iterative reconstruction method is developed to improve image
+reconstruction quality. The convergence of the ADSF iterative reconstruction algorithm is proven through mathematical analysis. The performance of the ADSF reconstruction method is also evaluated
+on both public medical image datasets and clinical raw CT datasets. Our results show that the ADSF reconstruction method can achieve better denoising and deblurring effects than the state-of-the-art
+reconstruction methods, showing excellent generalizability and stability.
+  authors: Wenxiang Cong, Wenjun Xia, Ge Wang
   link: 
-    url: https://arxiv.org/abs/2407.10856
-    display:  arXiv, 2407.10856, 2024 (to appear in Ann Rev BME, IF=12.8)
+    url: https://arxiv.org/pdf/2306.08610v7
+    display: arXiv:2306.08610
   highlight: 1
   news2:
 
