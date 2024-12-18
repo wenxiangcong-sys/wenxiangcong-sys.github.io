@@ -10,7 +10,7 @@
 
 - title: "Tomographic Image Reconstruction Using an Advanced Score Function (ADSF)"
   image: PFCM2.png
-  description: By leveraging the Gaussian mixture model, we derive a novel score matching formula to establish an advanced score function (ADSF) through deep learning. Integrating the new ADSF, a new ADSF iterative reconstruction method is developed to improve image reconstruction quality. The performance of the ADSF reconstruction method is also evaluated on both public medical image datasets and clinical raw CT datasets. Our results show that the ADSF reconstruction method can achieve better denoising and deblurring effects than the state-of-the-art reconstruction methods, showing excellent generalizability and stability.
+  description: By leveraging the Gaussian mixture model, we derive a novel score matching formula to establish an advanced score function (ADSF) through deep learning. Integrating the new ADSF, a new ADSF iterative reconstruction method is developed to improve image reconstruction quality. The performance of the ADSF reconstruction method is evaluated on both public medical image datasets and clinical raw CT datasets, showing excellent generalizability and stability.
   authors: Wenxiang Cong, Wenjun Xia, Ge Wang
   link: 
     url: https://arxiv.org/pdf/2306.08610v7
