@@ -33,7 +33,7 @@
   description: We apply the low-dimensional manifold model (LDMM) to regularize X-ray computed tomography (CT) image reconstruction. This approach effectively recovers detailed structural information, significantly enhancing both spatial and contrast resolution. Clinical experiments show that the LDMM-based method achieves more accurate image reconstruction with high fidelity and improved contrast resolution.
   authors: Wenxiang Cong, Ge Wang, Qingsong Yang, Jia Li, Jiang Hsieh, Rongjie Lai
   link: 
-    url:  https://pmc.ncbi.nlm.nih.gov/articles/PMC9674026
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9674026
     display: Inverse Problems and Imaging 13(3), 449-460 
   highlight: 1
   news2:
@@ -57,6 +57,7 @@
     display:  American Scientist 111:294-301, 2023
   highlight: 1
   news2:
+  
 
 
 
