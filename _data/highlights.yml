@@ -50,7 +50,7 @@
 
 - title: "Differential phase-contrast interior tomography"
   image: AmeSci-Future-MI.png
-  description: In this popular science article, the historical development of medical imaigng technologie is discussed along with the bright perspective of this critical healthcare field. The story is presented through the lens of increasing image dimentionality from two to many and from real to imaginary.
+  description: Differential phase-contrast interior tomography enables the reconstruction of refractive index distributions within a region of interest (ROI) for the visualization and analysis of structures inside large biological specimens. In this imaging mode, X-ray scanning targets only the ROI, with a narrow beam passing through the object, significantly reducing both radiation dose and system cost. Inspired by recent developments in compressive sensing theory, we demonstrate through numerical analysis that accurate interior reconstruction can be achieved from truncated differential projection data of the ROI. This is accomplished via total variation minimization, assuming a piecewise constant refractive index distribution within the ROI. We then develop a practical iterative algorithm for this interior reconstruction and conduct numerical experiments to validate the feasibility of the proposed approach.
   authors: Ge Wang
   link: 
     url: https://iopscience.iop.org/article/10.1088/0031-9155/57/10/2905
