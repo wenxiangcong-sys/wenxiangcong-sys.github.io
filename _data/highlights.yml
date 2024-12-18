@@ -21,7 +21,7 @@
 - title: "Spherical grating based x‐ray Talbot interferometry"
   image: Nomen.png
   description: A spherical grating matches the wave front of a point x-ray source very well, allowing the perpendicular incidence of x-rays on the grating to achieve a higher visibility over a larger field of view than the planer grating counterpart. A theoretical analysis of the Talbot effect for spherical grating imaging is proposed to establish a basic foundation for x-ray spherical gratings interferometry. An efficient method of spherical grating imaging is also presented to extract attenuation, differential phase, and dark-field images in the x-ray spherical grating interferometer. 
-  authors: Brett Kagan, Michael Mahlis, Anjali Bhat, Josh Bongard, Victor M. Cole, Phillip Corlett, Christopher Gyngell, Thomas Hartung, Bianca Jupp, Michael Levin, Tamra Lysaght, Nicholas Opie, Adeel Razi, Lena Smirnova, Ian Tennant, Peter Thestrup Wade, Ge Wang
+  authors: Wenxiang Cong, Yan Xi, Ge Wang
   link: 
     url: https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.4933195
     display: Medical physics 42(11), 6514-6519.
