@@ -3,7 +3,7 @@
   description: In this work, we present a physics-based deep learning approach that maps polyenergetic CT images to monoenergetic images at pre-specified energy levels. This method accurately approximates virtual monoenergetic (VM) images from DECT using only single-spectrum images, enabling multi-material decomposition with performance comparable to DECT.
   authors: Wenxiang Cong, Yan Xi, Paul Fitzgerald, Bruno De Man, Ge Wang
   link: 
-    url: https: https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0
+    url: https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0
     display: Patterns, Volume 1, Issue 8, 100128
   highlight: 1
   news2:
