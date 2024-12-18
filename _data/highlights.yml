@@ -41,7 +41,7 @@
 - title: "Modeling photon propagation in biological tissues using a generalized Delta-Eddington phase function"
   image: LAMA.png
   description: Photon propagation in biological tissue is commonly described by the radiative transfer equation, where the phase function represents the scattering characteristics of the medium and significantly affects both the accuracy of the solution and computational efficiency. In this work, we introduce a generalized Delta-Eddington phase function to simplify the radiative transfer equation into an integral equation for photon fluence rate. Compared to the widely used diffusion approximation model, the solution of this integral equation offers highly accurate modeling of photon propagation in biological tissue across a broad range of optical parameters. This methodology is validated through Monte Carlo simulation.
-  authors: W. Cong, H. Shen, A. Cong, Y. Wang, and G. Wang 
+  authors: Wenxiang Cong, Haiou Shen, Alexander Cong, Yue Wang, and Ge Wang 
   link: 
     url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.76.051913
     display: Physical Review E 76(5), 051913
@@ -50,8 +50,8 @@
 
 - title: "Differential phase-contrast interior tomography"
   image: AmeSci-Future-MI.png
-  description: Differential phase-contrast interior tomography enables the reconstruction of refractive index distributions within a region of interest (ROI) for the visualization and analysis of structures inside large biological specimens. In this imaging mode, X-ray scanning targets only the ROI, with a narrow beam passing through the object, significantly reducing both radiation dose and system cost. Inspired by recent developments in compressive sensing theory, we demonstrate through numerical analysis that accurate interior reconstruction can be achieved from truncated differential projection data of the ROI. This is accomplished via total variation minimization, assuming a piecewise constant refractive index distribution within the ROI. We then develop a practical iterative algorithm for this interior reconstruction and conduct numerical experiments to validate the feasibility of the proposed approach.
-  authors: Ge Wang
+  description: Differential phase-contrast interior tomography enables the reconstruction of refractive index distributions within a region of interest (ROI) for the visualization and analysis of structures inside large biological specimens. In this imaging mode, X-ray scanning targets only the ROI, with a narrow beam passing through the object, significantly reducing both radiation dose and system cost. We demonstrate through numerical analysis that accurate interior reconstruction can be achieved from truncated differential projection data of the ROI. This is accomplished via total variation minimization, assuming a piecewise constant refractive index distribution within the ROI. We then develop a practical iterative algorithm for this interior reconstruction and conduct numerical experiments to validate the feasibility of the proposed approach.
+  authors: Wenxiang Cong, Jiangsheng Yang and Ge Wang
   link: 
     url: https://iopscience.iop.org/article/10.1088/0031-9155/57/10/2905
     display: Physics in Medicine & Biology 57(10), 2905-2914
