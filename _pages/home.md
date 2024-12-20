@@ -76,10 +76,9 @@ We have proposed a novel score-matching formula to derive a new score function t
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-Our focus is on medical imaging, with an emphasis on X-ray tomographic imaging, photoacoustic imaging, and image reconstruction and analysis. We are developing theories, methods, software, and hardware systems for clinical applications. We are grateful for all collaborators and funding agencies especially [National Institutes of Health](https://www.nih.gov/), and [Nvidia](https://www.nvidia.com/en-us/).
+Our focus is on medical imaging, with an emphasis on X-ray tomographic imaging, photoacoustic imaging, and image reconstruction and analysis. We are developing theories, methods, software, and hardware systems for clinical applications. We are grateful for all collaborators and funding agencies especially [National Institutes of Health](https://www.nih.gov/).
 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nih.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nvidia.png" style="width: 80px">
 </figure>
