@@ -44,7 +44,7 @@ We have proposed a novel score-matching formula to derive a new score function t
         <!-- Fourth Slide -->
         <div class="item">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/home3.PNG" alt="Slide 4" />
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.tif" alt="Slide 4" />
             </a>
         </div>
   </div>
