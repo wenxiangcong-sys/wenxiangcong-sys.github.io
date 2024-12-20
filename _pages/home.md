@@ -76,7 +76,7 @@ permalink: /
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<p style="text-align: justify;">Our focus is on medical imaging, with an emphasis on X-ray tomographic imaging, photoacoustic imaging, and image reconstruction and analysis. We are developing theories, methods, software, and hardware systems for clinical applications. We are grateful for all collaborators and funding agencies especially [National Institutes of Health](https://www.nih.gov/).</p>
+<p style="text-align: justify;">Our focus is on medical imaging, with an emphasis on X-ray tomographic imaging, photoacoustic imaging, and image reconstruction and analysis. We are developing theories, methods, software, and hardware systems for clinical applications. We are excited to collaborate with partners and funding agencies on innovative and impactful projects, especially [National Institutes of Health](https://www.nih.gov/).</p>
 
 
 <figure class="fourth">
