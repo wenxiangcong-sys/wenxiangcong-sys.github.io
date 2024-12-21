@@ -23,28 +23,28 @@ permalink: /
         
         <div class="item active">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" />
+              <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="500" height="500"/>
             </a>
         </div>
 
         <!-- Second Slide -->
         <div class="item">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" />
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" width="500" height="500"/>
             </a>
         </div>
 
         <!-- Third Slide -->
         <div class="item">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide2.PNG" alt="Slide 3" />
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide2.PNG" alt="Slide 3" width="500" height="500"/>
             </a>
         </div>
 
         <!-- Fourth Slide -->
         <div class="item">
             <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" />
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="500" height="500"/>
             </a>
         </div>
   </div>
