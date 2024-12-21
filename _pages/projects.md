@@ -14,7 +14,7 @@ permalink: /projects/
 
 ## Cardiac tomographic Imaging 
 
-<p style="text-align: justify;">The goal is to leverage deep learning to eliminate artifacts from cardiac CT images without requiring costly hardware redesigns. This approach employs machine learning techniques to process projection sinogram data and perform both image reconstruction and analysis.</p>p
+<p style="text-align: justify;">The goal is to leverage deep learning to eliminate artifacts from cardiac CT images without requiring costly hardware redesigns. This approach employs machine learning techniques to process projection sinogram data and perform both image reconstruction and analysis.</p>
 
 
 <p align = "left">
