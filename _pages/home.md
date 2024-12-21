@@ -22,7 +22,7 @@ permalink: /
 
         
         <div class="item active">
-            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
+            <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0">
               <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="500" height="500"/>
             </a>
         </div>
@@ -43,7 +43,7 @@ permalink: /
 
         <!-- Fourth Slide -->
         <div class="item">
-            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
+            <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="500" height="500"/>
             </a>
         </div>
