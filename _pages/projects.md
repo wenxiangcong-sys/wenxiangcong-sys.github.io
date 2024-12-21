@@ -18,7 +18,7 @@ permalink: /projects/
 
 
 <p align = "left">
-<img src="{{ site.url }}{{ site.baseurl }}/images/projects/cardiac_ct_deblooming.png" width="400" height="300">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projects/cardiac_ct_deblooming.png" width="460" height="300">
 </p>
 
 
