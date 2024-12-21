@@ -23,28 +23,28 @@ permalink: /
         
         <div class="item active">
             <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="800" height="600"/>
+              <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="800" height="1600"/>
             </a>
         </div>
 
         <!-- Second Slide -->
         <div class="item">
             <a href="https://arxiv.org/pdf/2306.08610v7">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" width="800" height="600"/>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" width="800" height="1600"/>
             </a>
         </div>
 
         <!-- Third Slide -->
         <div class="item">
             <a href="https://arxiv.org/pdf/2306.08610v7">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide2.PNG" alt="Slide 3" width="800" height="600"/>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide2.PNG" alt="Slide 3" width="800" height="1600"/>
             </a>
         </div>
 
         <!-- Fourth Slide -->
         <div class="item">
             <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="800" height="600"/>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="800" height="1600"/>
             </a>
         </div>
   </div>
