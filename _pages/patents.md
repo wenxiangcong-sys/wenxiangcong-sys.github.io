@@ -75,24 +75,6 @@ A detection scheme for x-ray small angle scattering is described. An x-ray small
 
 
 
-# <a href="https://patentimages.storage.googleapis.com/89/04/7d/780bc1f5954cbe/US20220175329A1.pdf"> SIMULTANEOUS INTERIOR MRI AND X-RAY IMAGING SYSTEM (MRX)</a>
-
-
-<b>Inventors</b>
-Ge Wang, Lars Arne Gjesteby
-
-<b>Publication date :</b> 2022/6/9
-
-<b>Patent office :</b> US
-
-<b>Application number</b> : 17679716
-
-<b>Description</b>: 
-Systems and methods for obtaining simultaneous X-ray—magnetic resonance imaging (MRI) images are provided. A magnetic resonance X-ray CT (MRX) system can combine X-ray imaging and MRI in a cost-effective and relatively simple solution for improved imaging. During imaging of a subject, the X-ray source and X-ray detector can be simultaneously rotated around the subject, and the means for generating a magnetic field can also be rotated around the subject. The means for generating a magnetic field can be a plurality of permanent magnets.
-
-
-
-
 
 
 
