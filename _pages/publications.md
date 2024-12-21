@@ -5,7 +5,11 @@ excerpt: "Intellimaging Tech -- Publications."
 sitemap: false
 permalink: /publications/
 ---
+<br/>
+<br/>
+<br/>
 
+## Publications:
 
 Wenxiang Cong, Wenjun Xia, Ge Wang"Tomographic Image Reconstruction Using an Advanced Score Function (ADSF)," [arXiv:2306.08610(2023)](https://arxiv.org/pdf/2306.08610v7)
   <p style="text-align: justify;">Leveraging the Gaussian mixture model, we derive a novel score matching formula to establish an advanced score function (ADSF) through deep learning. Using the ADSF, a new iterative reconstruction method is developed to improve image reconstruction. The performance of the reconstruction method is evaluated on clinical raw CT datasets, showing excellent generalizability and stability.</p>
