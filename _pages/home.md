@@ -29,14 +29,14 @@ permalink: /
 
         <!-- Second Slide -->
         <div class="item">
-            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
+            <a href="https://arxiv.org/pdf/2306.08610v7">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" width="500" height="500"/>
             </a>
         </div>
 
         <!-- Third Slide -->
         <div class="item">
-            <a href="https://spie.org/news/ge-wang-the-spie-aden-and-marjorie-meinel-technology-achievement-award">
+            <a href="https://arxiv.org/pdf/2306.08610v7">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/Slide2.PNG" alt="Slide 3" width="500" height="500"/>
             </a>
         </div>
