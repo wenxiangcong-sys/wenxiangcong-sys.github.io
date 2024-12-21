@@ -1,7 +1,7 @@
 ---
 title: "Intellimaging Tech - Home"
 layout: homelay
-excerpt: "Developing artificial intelligence and machine learning methods and technologies for medical imaging"
+excerpt: "Developing artificial intelligence technologies for medical imaging"
 sitemap: false
 permalink: /
 ---
