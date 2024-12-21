@@ -6,7 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 <br/>
-<br/>
 
 ## Publications:
 
