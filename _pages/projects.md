@@ -18,7 +18,7 @@ permalink: /projects/
 
 
 <p align = "left">
-<img src = "https://raw.githubusercontent.com/WANG-AXIS/wenxiangcong-sys.github.io/master/images/projects/cardiac_ct_deblooming.png" width="600">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projects/cardiac_ct_deblooming.png"
 </p>
 <p align = "left">
 </p>
