@@ -3,7 +3,7 @@ title: "Intellimaging Tech - Publications"
 layout: gridlay
 excerpt: "Intellimaging Tech -- Publications."
 sitemap: false
-permalink: /publication/
+permalink: /publications/
 ---
 <br/>
 <br/>
