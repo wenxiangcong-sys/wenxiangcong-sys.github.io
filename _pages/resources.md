@@ -1,9 +1,9 @@
 ---
-title: "Intellimaging Tech - Resources"
+title: "Intellimaging Tech - Products"
 layout: textlay
-excerpt: "Intellimaging -- Resources"
+excerpt: "Intellimaging -- Products"
 sitemap: false
-permalink: /resources/
+permalink: /products/
 ---
 
 
@@ -11,23 +11,15 @@ permalink: /resources/
 <br/>
 <br/>
 <br/>
-<!--# Resources-->
+<!--# products-->
+
+## image processing, reconstruction, and generation:
+We have proposed a novel score-matching formula to derive a new score function through deep learning on an image dataset. By integrating our new score function into the image reconstruction process, we have developed a new iterative reconstruction method within the MAP estimation framework to enhance image quality. We have evaluated the performance of our image reconstruction method on both public medical CT datasets and clinical raw datasets. Our reconstruction method consistently produced higher quality images in terms of PSNR and SSIM metrics across diverse datasets. Notably, on Siemens and GE clinical CT raw datasets, our proposed approach achieved superior denoising and deblurring effects over the competing methods, illustrating remarkable generalizability and stability. Our proposed score matching formula holds potential in image denoising, deblurring, and generation.
+
+## Photoacoustic imaging  
+Photoacoustic imaging (PAI) is a promising biomedical technique that combines rich optical contrast with high ultrasonic spatial resolution, overcoming the limited penetration depth of light in living tissues. PAI has demonstrated the ability to capture morphological, functional, and molecular information in human studies, providing intrinsic clinical indicators for applications ranging from early diagnosis to treatment monitoring.
 
 
 
-## X-ray Grating-based Imaging Platform:
-
-This platform is an x-ray Talbot-Lau interferometer (Figures 5 and 6), developed under the NIH grant R01 EB016977. A customized open x-ray source and a micro-focus x-ray source (L10101, Hamamatsu Photonics, Inc.) are used. The CMOS flat panel detector (XMARU1215-Master Plus, Rayence) has 2352x2944 pixels covering an area of 11.6x14.5cm2 at a maximum frame rate of 60fps with 4x4 binning. Two sets of three gratings G0, G1 and G2 (Micro-Works, Germany) are available for 28keV and 50keV x-ray imaging studies, respectively. The G2 grating is controlled by a high-precision linear stage (XA04A-R101, Kohzu Precision, Japan) with a minimum resolution 0.05µm. The distances among the source, detector, and gratings can be freely adjusted by translation stages (VP-25XA, Newport).
-
-
-
-<p align = "center">
-  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource5a.jpg" />
-  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource5b.jpg" />
-  <img style="width: 20vw; min-width: 330px;" src="https://raw.githubusercontent.com/WANG-AXIS/wang-axis.github.io/master/images/resourceImg/resource5c.jpg" />
-  
-  Figure 5. X-ray gratings G0, G1 and G2 for x-ray imaging at 50keV (the other set in the lab for 28keV, not shown).   
-  
-</p>
 
 
