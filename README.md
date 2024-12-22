@@ -1,1 +1,1 @@
-# Intellimaging Tech.github.io
+# Intellimaging.github.io
