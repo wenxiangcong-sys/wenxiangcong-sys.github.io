@@ -1,5 +1,5 @@
 ---
-title: "WANG-AXIS Lab - Vacancies"
+title: "Intellimaging - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
