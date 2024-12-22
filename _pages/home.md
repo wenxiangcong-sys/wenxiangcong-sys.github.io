@@ -22,8 +22,6 @@ permalink: /
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-<br/>
-<br/>
         
         <div class="item active">
             <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0">
