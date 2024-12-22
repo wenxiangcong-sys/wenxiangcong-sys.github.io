@@ -1,1 +1,1 @@
-# wang-axis.github.io
+# Intellimaging Tech.github.io
