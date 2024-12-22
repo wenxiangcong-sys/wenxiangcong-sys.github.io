@@ -20,6 +20,28 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
+  <!--
+  <a class="left carousel-control" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  -->
+
+  <!--
+  <a class="left carousel-control" role="button" data-slide="prev" onclick="moveCarousel('prev')">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" role="button" data-slide="next" onclick="moveCarousel('next')">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  -->
+
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         
@@ -50,27 +72,7 @@ permalink: /
             </a>
         </div>
   </div>
-  <!--
-  <a class="left carousel-control" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-  -->
 
-  <!--
-  <a class="left carousel-control" role="button" data-slide="prev" onclick="moveCarousel('prev')">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" role="button" data-slide="next" onclick="moveCarousel('next')">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-  -->
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
