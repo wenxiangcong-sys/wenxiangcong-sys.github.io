@@ -1,7 +1,7 @@
 ---
 title: "Wenxiang Cong"
 layout: gridlay
-excerpt: "WANG-AXIS Lab: Members"
+excerpt: "Intellimaging: Members"
 sitemap: false
 permalink: bio_CongWenxiang.html
 ---
