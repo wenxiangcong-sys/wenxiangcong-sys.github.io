@@ -28,7 +28,7 @@
   path: 
   number_educ: 2
   education1: 
-  education2: Areas - Medical Imaging, Machine Learning/Deep Learning
+  education2: Areas - Image Reconstruction, Machine Learning/Deep Learning
   education3: 
 
 - name: Mengzhou Li, PhD
@@ -39,6 +39,6 @@
   path:
   number_educ: 2
   education1: 
-  education2: Areas - Photon-counting CT, Deep Learning
+  education2: Areas - Medical Imaging, Deep Learning
   education3:
   education4:
