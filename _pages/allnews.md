@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "WANG-AXIS Lab at Rensselaer Polytechnic Institute."
+excerpt: "Intellimaging Tech"
 sitemap: false
 permalink: /allnews.html
 ---
