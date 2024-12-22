@@ -10,9 +10,6 @@ permalink: /
 
 <p style="text-align: justify;">Our focus is on medical imaging, with an emphasis on X-ray tomographic imaging, photoacoustic imaging, and image reconstruction and analysis. We are developing theories, methods, software, and hardware systems for clinical applications. We are excited to collaborate with partners and funding agencies on innovative and impactful projects, especially [National Institutes of Health](https://www.nih.gov/).</p>
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nih.jpg" style="width: 210px">
-</figure>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover" >
     <!-- Menu -->
