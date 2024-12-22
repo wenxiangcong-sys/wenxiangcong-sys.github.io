@@ -1,7 +1,7 @@
 ---
-title: "WANG-AXIS Lab - Patents"
+title: "Intellimaging Tech - Patents"
 layout: piclay
-excerpt: "WANG-AXIS Lab -- Patents"
+excerpt: "Intellimaging Tech -- Patents"
 permalink: /Patents/
 ---
 
