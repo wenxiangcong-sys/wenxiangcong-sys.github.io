@@ -77,32 +77,30 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2>Automatic Slideshow</h2>
-<p>Change image every 20 seconds:</p>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 4</div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="660" height="350"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="640" height="340"/>
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 4</div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" width="660" height="350"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" width="640" height="300"/>
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 4</div>
-  <img src= "{{ site.url }}{{ site.baseurl }}/images/Slide2.PNG" alt="Slide 3" width="660" height="350"/> 
+  <img src= "{{ site.url }}{{ site.baseurl }}/images/Slide2.PNG" alt="Slide 3" width="640" height="340"/> 
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 4</div>
-  <img src= "{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="660" height="350"/> 
+  <img src= "{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="640" height="340"/> 
   <div class="text">Caption Four</div>
 </div>
 
