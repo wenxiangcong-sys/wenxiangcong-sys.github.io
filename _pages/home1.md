@@ -70,7 +70,7 @@ img {vertical-align: middle;}
 }
 
 /* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 200px) {
   .text {font-size: 11px}
 }
 </style>
@@ -78,32 +78,39 @@ img {vertical-align: middle;}
 <body>
 
 <h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p>
+<p>Change image every 20 seconds:</p>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="800" height="600"/>
+  <div class="numbertext">1 / 4</div>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="600" height="500"/>
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="800" height="600"/>
+  <div class="numbertext">2 / 4</div>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" width="600" height="500"/>
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src= "{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="800" height="600"/> 
+  <div class="numbertext">3 / 4</div>
+  <img src= "{{ site.url }}{{ site.baseurl }}/images/Slide2.PNG" alt="Slide 3" width="600" height="500"/> 
   <div class="text">Caption Three</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 4</div>
+  <img src= "{{ site.url }}{{ site.baseurl }}/images/Slide3.PNG" alt="Slide 4" width="600" height="500"/> 
+  <div class="text">Caption Four</div>
 </div>
 
 </div>
 <br>
 
 <div style="text-align:center">
+  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
