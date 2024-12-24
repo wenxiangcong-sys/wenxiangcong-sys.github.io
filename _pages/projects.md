@@ -14,7 +14,7 @@ permalink: /projects/
 
 <h3>Cardiac tomographic Imaging</h3> 
 
-<p style="text-align: justify;">The goal is to leverage deep learning to eliminate artifacts from cardiac CT images without requiring costly hardware redesigns. This approach employs machine learning techniques to process projection sinogram data and perform both image reconstruction and analysis.</p>
+<p style="text-align: justify;">Cardiac tomographic imaging represents a suite of advanced technologies designed to provide three-dimensional visualization of the heart’s structure and function. These techniques offer detailed insights into cardiac anatomy, blood flow, and tissue characteristics, playing a pivotal role in the diagnosis and management of cardiovascular diseases. As a foundational tool in modern cardiology, cardiac tomographic imaging enables clinicians to make informed decisions with precision. With continuous technological advancements, these methods are poised to further improve diagnostic accuracy, enhance treatment planning, and ultimately elevate patient care.</p>
 
 
 <p align = "left">
