@@ -26,7 +26,6 @@ permalink: /multimedia/
 
 
 ## Future Directions in AI for Medical Imaging
-
 <b>Self-Supervised and Transfer Learning</b>: Enhances AI capabilities with less labeled data.
 <br>
 <br>
