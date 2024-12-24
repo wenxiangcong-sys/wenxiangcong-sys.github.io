@@ -5,8 +5,6 @@ excerpt: "Intellimaging -- Multimedia"
 permalink: /multimedia/
 ---
 
-
-<br/>
 <br/>
 
 <!--# Pictures-->
