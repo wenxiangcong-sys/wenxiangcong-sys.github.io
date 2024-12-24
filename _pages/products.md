@@ -13,12 +13,14 @@ permalink: /products/
 <br/>
 <!--# products-->
 
-## Image processing, Reconstruction, and Generation:
-<p style="text-align: justify;">We have proposed a novel score-matching formula to derive a new score function through deep learning on an image dataset. By integrating our new score function into the image reconstruction process, we have developed a new iterative reconstruction method within the MAP estimation framework to enhance image quality. We have evaluated the performance of our image reconstruction method on both public medical CT datasets and clinical raw datasets. Our reconstruction method consistently produced higher quality images in terms of PSNR and SSIM metrics across diverse datasets. Notably, on Siemens and GE clinical CT raw datasets, our proposed approach achieved superior denoising and deblurring effects over the competing methods, illustrating remarkable generalizability and stability. Our proposed score matching formula holds potential in image denoising, deblurring, and generation.</p>
+## AI Foundation Model for Clinical Applications
+<p style="text-align: justify;">An AI foundation model for tumor identification leverages large-scale, pre-trained deep learning architectures to identify, classify, and characterize tumors in medical images such as MRI, CT, PET, and histopathological scans. These models utilize state-of-the-art methods to generalize across various tumor types, locations, and imaging modalities, enabling robust performance in diverse clinical settings.</p>
 
-## Photoacoustic imaging  
-<p style="text-align: justify;">Photoacoustic imaging (PAI) is a promising biomedical technique that combines rich optical contrast with high ultrasonic spatial resolution, overcoming the limited penetration depth of light in living tissues. PAI has demonstrated the ability to capture morphological, functional, and molecular information in human studies, providing intrinsic clinical indicators for applications ranging from early diagnosis to treatment monitoring.</p>
+## Carotid Artery Plaque Photoacoustic Imaging System
+<p style="text-align: justify;">Carotid Artery Plaque Photoacoustic Imaging (PAI) is an emerging biomedical imaging technique that leverages the combined benefits of optical and ultrasound imaging to provide detailed insights into carotid artery plaques. By utilizing laser-induced ultrasound waves, PAI can visualize the composition, structure, and biological properties of plaques, offering critical information for assessing the risk of stroke and cardiovascular events.</p>
 
+## Breast Photoacoustic Tomographic Imaging System
+<p style="text-align: justify;">Breast photoacoustic tomographic imaging (PAT) is an advanced medical imaging technique that combines optical and ultrasonic methods to provide detailed three-dimensional images of breast tissue. This technology is particularly effective in visualizing blood vessels, making it a promising tool for detecting early-stage breast cancer. By leveraging the strong optical absorption of light by hemoglobin in blood, PAT can highlight vascular changes often associated with tumor development.</p>
 
 
 
