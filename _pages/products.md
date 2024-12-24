@@ -13,13 +13,13 @@ permalink: /products/
 <br/>
 <!--# products-->
 
-## AI Foundation Model for Clinical Applications
-<p style="text-align: justify;">An AI foundation model for tumor identification leverages large-scale, pre-trained deep learning architectures to identify, classify, and characterize tumors in medical images such as MRI, CT, PET, and histopathological scans. These models utilize state-of-the-art methods to generalize across various tumor types, locations, and imaging modalities, enabling robust performance in diverse clinical settings.</p>
+# AI Foundation Model for Clinical Applications
+<p style="text-align: justify;">An AI foundation model for tumor identification leverages large-scale, pre-trained deep learning architectures to analyze and interpret medical images, including MRI, CT, PET, and histopathological scans. These models utilize state-of-the-art techniques to identify, classify, and characterize tumors, offering robust performance across various tumor types, anatomical locations, and imaging modalities. By generalizing effectively across diverse clinical scenarios, foundation models significantly enhance the accuracy and efficiency of cancer detection.</p>
 
-## Carotid Artery Plaque Photoacoustic Imaging System
+# Carotid Artery Plaque Photoacoustic Imaging System
 <p style="text-align: justify;">Carotid Artery Plaque Photoacoustic Imaging (PAI) is an emerging biomedical imaging technique that leverages the combined benefits of optical and ultrasound imaging to provide detailed insights into carotid artery plaques. By utilizing laser-induced ultrasound waves, PAI can visualize the composition, structure, and biological properties of plaques, offering critical information for assessing the risk of stroke and cardiovascular events.</p>
 
-## Breast Photoacoustic Tomographic Imaging System
+# Breast Photoacoustic Tomographic Imaging System
 <p style="text-align: justify;">Breast photoacoustic tomographic imaging (PAT) is an advanced medical imaging technique that combines optical and ultrasonic methods to provide detailed three-dimensional images of breast tissue. This technology is particularly effective in visualizing blood vessels, making it a promising tool for detecting early-stage breast cancer. By leveraging the strong optical absorption of light by hemoglobin in blood, PAT can highlight vascular changes often associated with tumor development.</p>
 
 
