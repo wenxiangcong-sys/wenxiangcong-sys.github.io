@@ -18,7 +18,7 @@ permalink: /products/
 
 <h3>Photoacoustic Imaging</h3>
 <p style="text-align: justify;"><b>Carotid Artery Plaque Photoacoustic Imaging System:</b>Carotid Artery Plaque Photoacoustic Imaging (PAI) is an emerging biomedical imaging technique that leverages the combined benefits of optical and ultrasound imaging to provide detailed insights into carotid artery plaques. By utilizing laser-induced ultrasound waves, PAI can visualize the composition, structure, and biological properties of plaques, offering critical information for assessing the risk of stroke and cardiovascular events.</p>
-<br>
+
 <p style="text-align: justify;"><b>Breast Photoacoustic Tomographic Imaging System:</b>Breast photoacoustic tomographic imaging (PAT) is an advanced medical imaging technique that combines optical and ultrasonic methods to provide detailed three-dimensional images of breast tissue. This technology is particularly effective in visualizing blood vessels, making it a promising tool for detecting early-stage breast cancer. By leveraging the strong optical absorption of light by hemoglobin in blood, PAT can highlight vascular changes often associated with tumor development.</p>
 
 
