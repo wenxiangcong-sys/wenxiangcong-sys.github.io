@@ -19,7 +19,6 @@ permalink: /multimedia/
 <br>
 <b>Classification</b>: Differentiates between benign and malignant lesions. Identifies disease subtypes for personalized treatment planning.
 <br>
-<br>
 <p style="text-align: justify;"><b>Quantitative Analysis</b>: Measures tumor volume, organ size, or vascular structures. Tracks disease progression and response to treatment. Combines data from different imaging modalities (e.g., MRI, PET) for comprehensive analysis. Integrates imaging with patient demographics and lab results for holistic insights.</p>
 
 
