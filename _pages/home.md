@@ -22,7 +22,7 @@ permalink: /
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        
+    
         <div class="item active">
             <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0">
               <img src="{{ site.url }}{{ site.baseurl }}/images/home0.PNG" alt="Slide 1" width="800" height="600"/>
@@ -57,8 +57,9 @@ permalink: /
   </a>
   <a class="right carousel-control" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span> -->
+    <span class="sr-only">Next</span> 
   </a>
+  -->
   <!--
   <a class="left carousel-control" role="button" data-slide="prev" onclick="moveCarousel('prev')">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
